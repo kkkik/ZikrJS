@@ -36,8 +36,8 @@ Zikr Widget is a pair of Scriptable scripts for iOS that show:
 - ✨ A salawat line
 
 Two localized files are included:
-- ZikrAR.js — Arabic UI and content
-- ZikrEN.js — English UI and content (fully translated labels and texts)
+- ZikrArabic.js — Arabic UI and content
+- ZikrEnglish.js — English UI and content (fully translated labels and texts)
 
 Credit preserved as requested:
 - `# Dev! kkkik on github`
