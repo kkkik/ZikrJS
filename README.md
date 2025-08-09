@@ -65,8 +65,8 @@ Get Scriptable: https://scriptable.app/
 
 ## 📁 Files
 
-- 📄 ZikrAR.js — Arabic version (اﻟﻌﺮﺑﻴﺔ)
-- 📄 ZikrEN.js — English version
+- 📄 ZikrArabic.js — Arabic version (اﻟﻌﺮﺑﻴﺔ)
+- 📄 ZikrEnglish.js — English version
 
 Both scripts include the same logic; only the UI strings, reminders, and prayer names are localized.
 
